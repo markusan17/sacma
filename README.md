@@ -1,2 +1,1 @@
-# sacma
-sacma
+# proje
